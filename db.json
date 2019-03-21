@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great Stream!",
+      "id": 1
+    },
+    {
+      "title": "Another Stream",
+      "description": "This Stream also very good !",
+      "id": 2
+    },
+    {
+      "title": "My First Stream",
+      "description": "PUBG game ",
+      "id": 3
+    },
+    {
+      "title": "Edited ",
+      "description": "testing edited",
+      "id": 5
+    }
+  ]
+}
